@@ -1,0 +1,16 @@
+scikit-learn
+tensorflow
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+langchain
+langchain-openai
+gradio
+nltk
+imbalanced-learn
+matplotlib
+seaborn
+pandas
+numpy
